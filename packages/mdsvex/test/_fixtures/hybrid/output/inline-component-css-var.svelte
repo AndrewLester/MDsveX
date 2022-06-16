@@ -1,0 +1,1 @@
+<p>This is my <Counter prop={0} --var="20px" /></p>
